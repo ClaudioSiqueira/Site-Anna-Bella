@@ -1,0 +1,341 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text",
+				"text-decoration\tproperty"
+			],
+			[
+				"a",
+				"auto\tmargin"
+			],
+			[
+				"s",
+				"span\tTag"
+			],
+			[
+				"borde",
+				"border-bottom\tproperty"
+			],
+			[
+				"boe",
+				"border-bottom\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"bo",
+				"border\tproperty"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"wdi",
+				"width\tproperty"
+			],
+			[
+				"tp",
+				"top\tproperty"
+			],
+			[
+				"back",
+				"background\tproperty"
+			],
+			[
+				"imag",
+				"imagem-galeria"
+			],
+			[
+				"ima",
+				"imagem-galeria"
+			],
+			[
+				"margi",
+				"margin\tproperty"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"bac",
+				"background\tproperty"
+			],
+			[
+				"font-",
+				"font-style\tproperty"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"C",
+				"colspan\tAttr"
+			],
+			[
+				"te",
+				"textarea\tTag"
+			],
+			[
+				"h",
+				"height\tAttr"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"c",
+				"colspan\tAttr"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"ti",
+				"title\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Claudio/Desktop/Projetos Udemy/2-Projeto CCS3/Projeto TecBlog/eletronicos.html",
+		"/C/Users/Claudio/Desktop/Projetos Udemy/2-Projeto CCS3/Projeto TecBlog/celulares.html",
+		"/C/Users/Claudio/Desktop/Projetos Udemy/2-Projeto CCS3/Projeto TecBlog/informatica.html",
+		"/C/Users/Claudio/Desktop/Projetos Udemy/2-Projeto CCS3/Projeto TecBlog/jogos.html",
+		"/C/Users/Claudio/Desktop/Projetos Udemy/2-Projeto CCS3/Projeto TecBlog/index.html",
+		"/C/Users/Claudio/Desktop/Projetos Udemy/2-Projeto CCS3/Projeto TecBlog/css/meuestilo.css",
+		"/C/Users/Claudio/Desktop/Projetos Udemy/2-Projeto CCS3/Projeto TecBlog/css/estilo.css",
+		"/C/Users/Claudio/Desktop/Projetos Udemy/2-Projeto CCS3/Projeto Anna Bella/index.html",
+		"/C/Users/Claudio/Desktop/Projetos Udemy/2-Projeto CCS3/Projeto Anna Bella/estilo.css",
+		"/C/Users/Claudio/Desktop/Projetos Udemy/2-Projeto CCS3/ProjetoCSS3 intermediário/index.html",
+		"/C/Users/Claudio/Desktop/Projetos Udemy/2-Projeto CCS3/ProjetoCSS3 intermediário/links.html",
+		"/C/Users/Claudio/Desktop/Projetos Udemy/2-Projeto CCS3/ProjetoCSS3 intermediário/sobrepondo-elementos.html",
+		"/C/Users/Claudio/Desktop/Projetos Udemy/2-Projeto CCS3/ProjetoCSS3 intermediário/posicionamentos.html",
+		"/C/Users/Claudio/Desktop/Projetos Udemy/2-Projeto CCS3/ProjetoCSS3 intermediário/elementos-inline-block.html",
+		"/C/Users/Claudio/Desktop/Projetos Udemy/2-Projeto CCS3/ProjetoCSS3 intermediário/elementos-flutuantes-pratica.html",
+		"/C/Users/Claudio/Desktop/Projetos Udemy/2-Projeto CCS3/ProjetoCSS3 intermediário/mack.html",
+		"/C/Users/Claudio/Desktop/Projetos Udemy/2-Projeto CCS3/ProjetoCSS3 intermediário/elementos-flutuantes.html",
+		"/C/Users/Claudio/Desktop/Projetos Udemy/2-Projeto CCS3/Projeto Anna Bella/campanhas-publicitarias.html",
+		"/C/Users/Claudio/Desktop/Projetos Udemy/2-Projeto CCS3/ProjetoCSS3 intermediário/estilo.css",
+		"/C/Users/Claudio/Desktop/Projetos Udemy/2-Projeto CCS3/ProjetoCSS3 intermediário/modelo-caixa.html",
+		"/C/Users/Claudio/Desktop/Projetos Udemy/2-Projeto CCS3/Projeto Anna Bella/biografia.html",
+		"/C/Users/Claudio/Desktop/Projetos Udemy/2-Projeto CCS3/Projeto Anna Bella/contato.html",
+		"/C/Users/Claudio/Desktop/Projetos Udemy/Projeto CCS3/estilo.css",
+		"/C/Users/Claudio/Desktop/Projetos Udemy/Projeto CCS3/pagina2.html",
+		"/C/Users/Claudio/Desktop/Projetos Udemy/Projeto CCS3/pagina1.html",
+		"/C/Users/Claudio/Desktop/Projetos Udemy/Projeto CCS3/cor-imagem-fundo.html",
+		"/C/Users/Claudio/Desktop/Projetos Udemy/Projeto CCS3/estilos-texto.html",
+		"/C/Users/Claudio/Desktop/Projetos Udemy/Projeto CCS3/tamanho-de-texto.html",
+		"/C/Users/Claudio/Desktop/Projetos Udemy/Projeto CCS3/estilos-textos",
+		"/C/Users/Claudio/Desktop/Projetos Udemy/Projeto CCS3/fontes-cores.html",
+		"/C/Users/Claudio/Desktop/Projetos Udemy/Projeto CCS3/bordas.html",
+		"/C/Users/Claudio/Desktop/Projetos Udemy/Projeto CCS3/div-span.html",
+		"/C/Users/Claudio/Desktop/Projetos Udemy/Projeto CCS3/classes-ids.html",
+		"/C/Users/Claudio/Desktop/Projetos Udemy/Projeto CCS3/inline_style.html",
+		"/C/Users/Claudio/Desktop/Site Universidade/contato.html",
+		"/C/Users/Claudio/Desktop/Site Universidade/quem-somos.html",
+		"/C/Users/Claudio/Desktop/Site Universidade/index.html",
+		"/C/Users/Claudio/Desktop/Primeiro Projeto/__MACOSX/._arquivos-necessarios-projetos-unes",
+		"/C/Users/Claudio/Desktop/Primeiro Projeto/arquivos-necessarios-projetos-unes/fundo.png",
+		"/C/Users/Claudio/Desktop/Primeiro Projeto/arquivos-necessarios-projetos-unes/fundo2.png",
+		"/C/Users/Claudio/Desktop/Primeiro Projeto/arquivos-necessarios-projetos-unes/logo.png",
+		"/C/Users/Claudio/Desktop/Primeiro Projeto/index.html",
+		"/C/Users/Claudio/Desktop/Primeiro Projeto/contato.html",
+		"/C/Users/Claudio/Desktop/Primeiro Projeto/projeto.html",
+		"/C/Users/Claudio/Desktop/Projeto Web/index.html"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 37.0
+	},
+	"input":
+	{
+		"height": 49.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 158.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
